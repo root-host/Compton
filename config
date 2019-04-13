@@ -88,6 +88,7 @@ shadow-exclude = [
     "_GTK_FRAME_EXTENTS@:c",
     "name = 'Notification'",
     "name = 'Plank'",
+    "name = 'Atom'",
     "name = 'VirtualBox'",
     "name = 'Docky'",
     "name = 'Kupfer'",
